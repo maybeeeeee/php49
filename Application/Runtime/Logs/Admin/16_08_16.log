@@ -1,0 +1,1074 @@
+[ 2016-08-16T10:58:56+08:00 ] 127.0.0.1 /index.php/Admin/Test/test53/id/21.0.0.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001888s ]
+
+[ 2016-08-16T10:59:05+08:00 ] 127.0.0.1 /index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2016-08-16T10:59:05+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2016-08-16T10:59:25+08:00 ] 127.0.0.1 /index.php/Admin/Public/check.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-08-16T10:59:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-08-16T10:59:27+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2016-08-16T10:59:35+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-08-16T10:59:40+08:00 ] 127.0.0.1 /index.php/Admin/Doc/getContent/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-08-16T10:59:51+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-08-16T10:59:55+08:00 ] 127.0.0.1 /index.php/Admin/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2016-08-16T10:59:59+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-08-16T11:00:02+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2016-08-16T11:00:03+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2016-08-16T11:00:04+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-08-16T11:00:04+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+
+[ 2016-08-16T11:08:34+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2016-08-16T11:08:40+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-08-16T11:08:43+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2016-08-16T11:08:45+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2016-08-16T11:11:27+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+
+[ 2016-08-16T11:11:44+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/addOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2016-08-16T11:11:47+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2016-08-16T11:28:04+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-08-16T11:28:06+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-08-16T11:28:08+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2016-08-16T11:32:55+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2016-08-16T11:32:55+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+
+[ 2016-08-16T11:32:58+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2016-08-16T11:33:06+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-08-16T11:33:08+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-08-16T11:35:05+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2016-08-16T11:35:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+
+[ 2016-08-16T11:35:13+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000547s ]
+
+[ 2016-08-16T11:35:16+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-08-16T11:35:17+08:00 ] 127.0.0.1 /index.php/Admin/Email/sedBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-08-16T11:35:18+08:00 ] 127.0.0.1 /index.php/Admin/Email/redBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+ERR: 无法加载控制器:Email
+
+[ 2016-08-16T11:36:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2016-08-16T11:36:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+
+[ 2016-08-16T11:36:43+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001388s ]
+
+[ 2016-08-16T11:36:43+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+
+[ 2016-08-16T11:36:44+08:00 ] 127.0.0.1 /index.php/Admin/Email/sedBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+ERR: 非法操作:sedBox
+
+[ 2016-08-16T11:36:46+08:00 ] 127.0.0.1 /index.php/Admin/Email/redBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 非法操作:redBox
+
+[ 2016-08-16T11:36:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2016-08-16T11:36:50+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000553s ]
+
+[ 2016-08-16T11:36:51+08:00 ] 127.0.0.1 /index.php/Admin/Email/sedBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+ERR: 非法操作:sedBox
+
+[ 2016-08-16T11:36:52+08:00 ] 127.0.0.1 /index.php/Admin/Email/redBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 非法操作:redBox
+
+[ 2016-08-16T11:37:18+08:00 ] 127.0.0.1 /index.php/Admin/Email/redBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+ERR: 非法操作:redBox
+
+[ 2016-08-16T11:37:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/redBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 非法操作:redBox
+
+[ 2016-08-16T11:37:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/redBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000498s ]
+ERR: 非法操作:redBox
+
+[ 2016-08-16T11:37:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/redBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 非法操作:redBox
+
+[ 2016-08-16T11:37:22+08:00 ] 127.0.0.1 /index.php/Admin/Email/redBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+ERR: 非法操作:redBox
+
+[ 2016-08-16T11:37:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-08-16T11:37:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-08-16T11:37:27+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+ERR: 非法操作:recBox
+
+[ 2016-08-16T11:37:27+08:00 ] 127.0.0.1 /index.php/Admin/Email/sedBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 非法操作:sedBox
+
+[ 2016-08-16T11:37:28+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000689s ]
+
+[ 2016-08-16T11:37:28+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-08-16T11:40:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/sedBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+ERR: 非法操作:sedBox
+
+[ 2016-08-16T11:40:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/sedBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 非法操作:sedBox
+
+[ 2016-08-16T11:40:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+
+[ 2016-08-16T11:40:37+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2016-08-16T11:40:43+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2016-08-16T11:40:45+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2016-08-16T11:40:45+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2016-08-16T11:49:28+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2016-08-16T11:49:28+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2016-08-16T11:49:28+08:00 ] 127.0.0.1 /index.php/Admin/Email/sedBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+ERR: 非法操作:sedBox
+
+[ 2016-08-16T11:49:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+ERR: 非法操作:recBox
+
+[ 2016-08-16T11:49:31+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2016-08-16T11:49:31+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2016-08-16T11:49:31+08:00 ] 127.0.0.1 /index.php/Admin/Email/sedBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+ERR: 非法操作:sedBox
+
+[ 2016-08-16T11:49:34+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-08-16T11:49:34+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+
+[ 2016-08-16T11:49:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/sedBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 非法操作:sedBox
+
+[ 2016-08-16T11:49:37+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+ERR: 非法操作:recBox
+
+[ 2016-08-16T11:49:50+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+
+[ 2016-08-16T11:49:50+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-08-16T11:49:51+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-08-16T11:49:51+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+
+[ 2016-08-16T11:50:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+
+[ 2016-08-16T11:50:41+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2016-08-16T11:50:44+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-08-16T11:50:44+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+
+[ 2016-08-16T11:50:45+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-08-16T11:50:46+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-08-16T11:51:05+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+
+[ 2016-08-16T11:51:07+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-08-16T11:51:10+08:00 ] 127.0.0.1 /index.php/Admin/Email/sedBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 非法操作:sedBox
+
+[ 2016-08-16T11:51:11+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 非法操作:recBox
+
+[ 2016-08-16T11:51:14+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2016-08-16T11:51:14+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+
+[ 2016-08-16T11:53:25+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+
+[ 2016-08-16T11:55:12+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+
+[ 2016-08-16T11:55:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-08-16T11:55:29+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+
+[ 2016-08-16T11:55:52+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2016-08-16T11:55:54+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000531s ]
+
+[ 2016-08-16T11:57:42+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+
+[ 2016-08-16T11:57:42+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2016-08-16T11:57:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-08-16T11:57:58+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000439s ]
+
+[ 2016-08-16T11:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2016-08-16T11:58:05+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2016-08-16T11:58:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-08-16T11:58:09+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2016-08-16T11:58:33+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+
+[ 2016-08-16T11:58:35+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-08-16T12:01:08+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-08-16T12:01:09+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2016-08-16T12:01:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2016-08-16T12:01:10+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+
+[ 2016-08-16T12:01:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+
+[ 2016-08-16T12:01:11+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000787s ]
+
+[ 2016-08-16T12:01:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-08-16T12:01:12+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2016-08-16T12:01:14+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2016-08-16T12:01:15+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+
+[ 2016-08-16T12:01:25+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+ERR: 1406:Data too long for column 'title' at row 1
+ [ SQL语句 ] : INSERT INTO `tp_email` (`to_id`,`title`,`content`,`from_id`,`addtime`) VALUES ('5','public function sendOk(){ 		#接收数据 		$post = I(\'post.\'); 		//dump(checkData($post));die; 		#判断是否有附件 		if($_FILES[\'file\'][\'size\'] &gt; 0){ 			#配置 			$cfg = array( 				\'rootPath\' =&gt; WORKING_PATH . UPLOAD_ROOT_PATH 				); 			#实例化 			$uplaod = new \\Think\\Upload($cfg); 			#上传操作 			$info = $uplaod -&gt; uploadOne($_FILES[\'file\']); 			#上传结果的判断 			if($info){ 				#上传成功的处理 				#hasfile字段 				$post[\'hasfile\'] = 1; 				#filename字段 				$post[\'filename\'] = $info[\'name\']; 				#file字段 				$post[\'file\'] = UPLOAD_ROOT_PATH . $info[\'savepath\'] . $info[\'savename\']; 			} 		} 		#from_id字段，当前用户的id 		$post[\'from_id\'] = session(\'uid\'); 		#addtime字段 		$post[\'addtime\'] = time(); 		#入库 		$model = M(\'Email\'); 		#入表 		$rst = $model -&gt; add($post); 		#判断写入结果 		if($rst){ 			#成功 			$this -&gt; success(\'邮件发送成功\',U(\'sendBox\'),3); 		}else{ 			#发送失败 			$this -&gt; error(\'发送失败\',U(\'send\'),3); 		} 	}','public function sendOk(){
+		#接收数据
+		$post = I(\'post.\');
+		//dump(checkData($post));die;
+		#判断是否有附件
+		if($_FILES[\'file\'][\'size\'] &gt; 0){
+			#配置
+			$cfg = array(
+				\'rootPath\' =&gt; WORKING_PATH . UPLOAD_ROOT_PATH
+				);
+			#实例化
+			$uplaod = new \\Think\\Upload($cfg);
+			#上传操作
+			$info = $uplaod -&gt; uploadOne($_FILES[\'file\']);
+			#上传结果的判断
+			if($info){
+				#上传成功的处理
+				#hasfile字段
+				$post[\'hasfile\'] = 1;
+				#filename字段
+				$post[\'filename\'] = $info[\'name\'];
+				#file字段
+				$post[\'file\'] = UPLOAD_ROOT_PATH . $info[\'savepath\'] . $info[\'savename\'];
+			}
+		}
+		#from_id字段，当前用户的id
+		$post[\'from_id\'] = session(\'uid\');
+		#addtime字段
+		$post[\'addtime\'] = time();
+		#入库
+		$model = M(\'Email\');
+		#入表
+		$rst = $model -&gt; add($post);
+		#判断写入结果
+		if($rst){
+			#成功
+			$this -&gt; success(\'邮件发送成功\',U(\'sendBox\'),3);
+		}else{
+			#发送失败
+			$this -&gt; error(\'发送失败\',U(\'send\'),3);
+		}
+	}','6','1471320084')
+
+[ 2016-08-16T12:01:53+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+
+[ 2016-08-16T12:01:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+
+[ 2016-08-16T12:07:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2016-08-16T12:07:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2016-08-16T12:07:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+
+[ 2016-08-16T12:07:52+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-08-16T12:07:55+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-08-16T12:07:55+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-08-16T12:08:19+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+
+[ 2016-08-16T12:08:21+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2016-08-16T12:09:02+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-08-16T12:09:02+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2016-08-16T12:09:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-08-16T12:09:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2016-08-16T12:09:02+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+
+[ 2016-08-16T12:09:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2016-08-16T12:09:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2016-08-16T12:09:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+
+[ 2016-08-16T12:09:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+
+[ 2016-08-16T12:09:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-08-16T12:09:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2016-08-16T12:09:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+
+[ 2016-08-16T12:09:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2016-08-16T12:09:03+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2016-08-16T12:09:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+
+[ 2016-08-16T12:09:09+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+
+[ 2016-08-16T12:09:27+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendOk
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-08-16T12:09:29+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+
+[ 2016-08-16T12:37:56+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+
+[ 2016-08-16T12:37:56+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2016-08-16T12:37:57+08:00 ] 127.0.0.1 /index.php/Admin/Email/sedBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+ERR: 非法操作:sedBox
+
+[ 2016-08-16T12:37:58+08:00 ] 127.0.0.1 /index.php/Admin/Email/sedBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 非法操作:sedBox
+
+[ 2016-08-16T12:38:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000557s ]
+
+[ 2016-08-16T12:38:51+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2016-08-16T12:38:54+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-08-16T12:39:04+08:00 ] 127.0.0.1 /index.php/Admin/Email/del/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 非法操作:del
+
+[ 2016-08-16T12:39:09+08:00 ] 127.0.0.1 /index.php/Admin/Email/getContent/id/5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+ERR: 非法操作:getContent
+
+[ 2016-08-16T12:39:13+08:00 ] 127.0.0.1 /index.php/Admin/Email/getContent/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000687s ]
+ERR: 非法操作:getContent
+
+[ 2016-08-16T12:39:17+08:00 ] 127.0.0.1 /index.php/Admin/Email/download/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000496s ]
+ERR: 非法操作:download
+
+[ 2016-08-16T12:55:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-08-16T12:55:28+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-08-16T12:55:30+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2016-08-16T12:55:30+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+
+[ 2016-08-16T12:55:32+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+
+[ 2016-08-16T12:55:34+08:00 ] 127.0.0.1 /index.php/Admin/Email/getContent/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+
+[ 2016-08-16T12:55:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/getContent/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2016-08-16T12:55:43+08:00 ] 127.0.0.1 /index.php/Admin/Email/download/id/7
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2016-08-16T12:56:18+08:00 ] 127.0.0.1 /index.php/Admin/Email/del/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+
+[ 2016-08-16T12:57:36+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+
+[ 2016-08-16T12:57:38+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+
+[ 2016-08-16T12:57:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/del/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+ERR: 1054:Unknown column '$id' in 'where clause'
+ [ SQL语句 ] : DELETE FROM `tp_email` WHERE ( id = $id and isread = 0 and from_id = 6 )
+
+[ 2016-08-16T12:58:08+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-08-16T12:58:11+08:00 ] 127.0.0.1 /index.php/Admin/Email/del/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000604s ]
+
+[ 2016-08-16T12:58:14+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+
+[ 2016-08-16T13:06:35+08:00 ] 127.0.0.1 /index.php/Admin/Empty/_empty
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2016-08-16T13:08:55+08:00 ] 127.0.0.1 /index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-08-16T13:08:55+08:00 ] 127.0.0.1 /index.php/Admin/Public/captcha
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+
+[ 2016-08-16T13:09:01+08:00 ] 127.0.0.1 /index.php/Admin/Public/123
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000519s ]
+
+[ 2016-08-16T13:59:02+08:00 ] 127.0.0.1 /index.php/Admin/Public/1234
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+
+[ 2016-08-16T14:00:31+08:00 ] 127.0.0.1 /index.php/Admin/Public/1234
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+
+[ 2016-08-16T14:00:40+08:00 ] 127.0.0.1 /index.php/Admin/Public/1234
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+
+[ 2016-08-16T14:01:29+08:00 ] 127.0.0.1 /index.php/Admin/Dept/1234
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-08-16T14:01:38+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-08-16T14:01:42+08:00 ] 127.0.0.1 /index.php/Admin/Dept/a
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+
+[ 2016-08-16T14:04:32+08:00 ] 127.0.0.1 /index.php/Admin/Email/download/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2016-08-16T14:04:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+
+[ 2016-08-16T14:04:34+08:00 ] 127.0.0.1 /index.php/Admin/Index/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2016-08-16T14:04:37+08:00 ] 127.0.0.1 /index.php/Admin/Dept/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+
+[ 2016-08-16T14:04:40+08:00 ] 127.0.0.1 /index.php/Admin/Email/recBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+
+[ 2016-08-16T14:04:43+08:00 ] 127.0.0.1 /index.php/Admin/Email/sendBox.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2016-08-16T14:04:44+08:00 ] 127.0.0.1 /index.php/Admin/Email/send.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-08-16T14:04:45+08:00 ] 127.0.0.1 /index.php/Admin/images/inputbg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+
+[ 2016-08-16T14:04:46+08:00 ] 127.0.0.1 /index.php/Admin/Dept/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000500s ]
+
+[ 2016-08-16T14:04:49+08:00 ] 127.0.0.1 /index.php/Admin/Dept/edit/id/undefined
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+
+[ 2016-08-16T14:04:55+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2016-08-16T14:04:57+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+
+[ 2016-08-16T14:05:12+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-08-16T14:05:16+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+
+[ 2016-08-16T14:05:21+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+
+[ 2016-08-16T14:05:27+08:00 ] 127.0.0.1 /index.php/Admin/Doc/getContent/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+
+[ 2016-08-16T14:05:29+08:00 ] 127.0.0.1 /index.php/Admin/Doc/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-08-16T14:05:31+08:00 ] 127.0.0.1 /index.php/Admin/Index/home.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+

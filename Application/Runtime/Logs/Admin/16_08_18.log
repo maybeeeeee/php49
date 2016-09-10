@@ -1,0 +1,20 @@
+[ 2016-08-18T19:45:49+08:00 ] 127.0.0.1 /index.php/Admin/Test/test53/id/21.0.0.0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001433s ]
+
+[ 2016-08-18T19:45:53+08:00 ] 127.0.0.1 /index.php/Admin/Test/test53/id/http://192.168.43.152/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-08-18T19:46:11+08:00 ] 127.0.0.1 /index.php/Admin/Test/test53/id/192.168.43.152
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+
+[ 2016-08-18T19:50:04+08:00 ] 127.0.0.1 /index.php/Admin/Test/test53/id/192.168.43.152
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
